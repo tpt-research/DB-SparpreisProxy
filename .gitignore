@@ -89,3 +89,6 @@ typings/
 
 # MacOS
 .DS_Store
+
+# IDEA
+.idea
